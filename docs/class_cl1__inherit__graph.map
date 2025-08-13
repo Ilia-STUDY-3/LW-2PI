@@ -1,0 +1,9 @@
+<map id="Cl1" name="Cl1">
+<area shape="rect" id="Node000001" title="Клас, що реалізує інтерфейс If1." alt="" coords="5,153,47,178"/>
+<area shape="rect" id="Node000004" href="$class_cl3.html" title="Клас, що успадковує від Cl1 та реалізує If3." alt="" coords="5,226,47,252"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="29,194,29,226,23,226,23,194"/>
+<area shape="rect" id="Node000002" href="$class_if1.html" title="Інтерфейс, що успадковує If2 та містить метод meth1()." alt="" coords="7,79,45,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="29,120,29,152,23,152,23,120"/>
+<area shape="rect" id="Node000003" href="$class_if2.html" title="Базовий інтерфейс з методом meth2()." alt="" coords="7,5,45,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="29,46,29,79,23,79,23,46"/>
+</map>
