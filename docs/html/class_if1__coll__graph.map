@@ -1,0 +1,5 @@
+<map id="If1" name="If1">
+<area shape="rect" id="Node000001" title="Інтерфейс, що успадковує If2 та містить метод meth1()." alt="" coords="5,79,44,105"/>
+<area shape="rect" id="Node000002" href="$class_if2.html" title="Базовий інтерфейс з методом meth2()." alt="" coords="5,5,44,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="27,46,27,79,22,79,22,46"/>
+</map>

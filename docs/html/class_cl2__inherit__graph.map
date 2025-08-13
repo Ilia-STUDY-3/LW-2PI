@@ -1,0 +1,5 @@
+<map id="Cl2" name="Cl2">
+<area shape="rect" id="Node000001" title="Клас, що реалізує інтерфейс If2." alt="" coords="5,79,47,105"/>
+<area shape="rect" id="Node000002" href="$class_if2.html" title="Базовий інтерфейс з методом meth2()." alt="" coords="7,5,45,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="29,46,29,79,23,79,23,46"/>
+</map>

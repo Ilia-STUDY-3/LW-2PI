@@ -1,0 +1,12 @@
+<map id="If1" name="If1">
+<area shape="rect" id="Node000001" title="Інтерфейс, що успадковує If2 та містить метод meth1()." alt="" coords="39,79,77,105"/>
+<area shape="rect" id="Node000003" href="$class_cl1.html" title="Клас, що реалізує інтерфейс If1." alt="" coords="5,153,47,178"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="49,120,34,153,29,151,44,118"/>
+<area shape="rect" id="Node000005" href="$class_if3.html" title="Інтерфейс, що успадковує If1 та містить метод meth3()." alt="" coords="71,153,109,178"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="72,118,87,151,82,153,67,120"/>
+<area shape="rect" id="Node000002" href="$class_if2.html" title="Базовий інтерфейс з методом meth2()." alt="" coords="39,5,77,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="61,46,61,79,55,79,55,46"/>
+<area shape="rect" id="Node000004" href="$class_cl3.html" title="Клас, що успадковує від Cl1 та реалізує If3." alt="" coords="37,226,79,252"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="40,191,55,225,50,227,35,193"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="81,193,66,227,61,225,76,191"/>
+</map>
